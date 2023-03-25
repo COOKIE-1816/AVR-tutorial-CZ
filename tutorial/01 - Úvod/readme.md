@@ -1,6 +1,11 @@
 # Úvod do programování mikrokontrolérů AVR
 V této části tutoriálu se seznámíme s programováním mikrokontrolérů AVR. Přečtěte si prosím [toto](/readme.md).
 
+## Co očekávat od tohoto tutoriálu?
+V tomto tutoriálu se naučíte jak fungujou mikrokontroléry a jak je programovat. Programovat budeme v jazyku C.  
+
+Většina tutoriálu Vás naučí pouze základni zapojení, Tento tutoriál by Vás měl naučit, jak mikrokontroléry VAR fungují a tak dále.
+
 ## Vyžadované předchozí znalosti
 * **Základy elektroniky** - je dobré znát nějaké základní veličiny, definice, zákony elektřiny atd.
 * **Programování** v jazyce C.
