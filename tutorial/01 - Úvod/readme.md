@@ -22,7 +22,7 @@ programátor USB-ASP za pár stovek;
 * **SW: Kompilátor jazyka C** s podporou AVR - Ke kompilaci zdrojového kódu. Použijte např. **MPLAB XC8** nebo avr-gcc (pro systém Linux);
 * **SW: Vývojové prostředí** - **Microchip/ATMEL Studio**, [Code::Blocks IDE](http://www.codeblocks.org/) nebo MPLAB IDE. Může však posloužit jakýkoliv obyčejný textový editor, ale doporučuje se použít IDE jako je Microchip Studio
 * **SW: Program pro manipulaci s pamětí mikrokontroléru** - **avrdude**, pokud používáte Microsoft Windows, použijte nástroje vestavěné ve vývojovém prostředí, případně použijte **MPLAB IPE**.
-* **FW: Drivery pro programátor** - pok
+* **FW: Drivery pro programátor** 
 
 ### Instalace (archlinux)
 ```sh
